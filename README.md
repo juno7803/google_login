@@ -1,4 +1,4 @@
-## 🍪 Cookie Parking : 쿠키파킹의 귀염탱, WEB
+# 🍪 Cookie Parking : 쿠키파킹의 귀염탱, WEB
 
 ### 🏡 프로젝트 구조
 
