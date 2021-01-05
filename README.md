@@ -68,7 +68,7 @@ webpack
 | :---: | :---: | :---: |
 | ![준호사진]() | ![정민사진]()  | ![현진사진]() |
 | 웹 개발자 | 웹 개발자 | 웹 개발자 |
-| newtab extension 구현  <br />directory detail 페이지 구현(web)  |프로젝트 세팅 (웹팩, 린트 등) 및 관리 <br /> 랜딩 페이지 제작 <br /> 리팩토링 및 전체적인 코드 리뷰 |popup extension 구현 <br /> 웹클리퍼 기능 구현 <br /> 구글 로그인 연동 |
+| directory detail 페이지 구현(web) <br/>newtab extension 구현|프로젝트 세팅 (웹팩, 린트 등) 및 관리 <br /> 랜딩 페이지 제작 <br /> 리팩토링 및 전체적인 코드 리뷰 |popup extension 구현 <br /> 웹클리퍼 기능 구현 <br /> 구글 로그인 연동 |
 
 |**🙋🏻‍♀️ [안채린](https://github.com/achrvv)** | **🙋🏻‍♀️ [천주윤](https://github.com/ewq3167)** |
 | :---: | :---: |
