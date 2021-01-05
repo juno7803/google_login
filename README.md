@@ -72,6 +72,6 @@ webpack
 
 |**🙋🏻‍♀️ [안채린](https://github.com/achrvv)** | **🙋🏻‍♀️ [천주윤](https://github.com/ewq3167)** |
 | :---: | :---: |
-| ![채린사진](https://sopt-juno.s3.ap-northeast-2.amazonaws.com/bong.gif) | ![주윤사진]() |
+| ![채린사진](https://sopt-juno.s3.ap-northeast-2.amazonaws.com/bong.gif) | ![주윤사진](https://sopt-juno.s3.ap-northeast-2.amazonaws.com/jyun.gif) |
 | 웹 개발자 | 웹 개발자 |
 |상세 디렉토리 리스트 구현 <br /> 프로젝트 세팅 선 구현|Card 컴포넌트 구현 <br />|
